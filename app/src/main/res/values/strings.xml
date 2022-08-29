@@ -1,0 +1,17 @@
+<!--Assignment #: InClass06
+File Name: Group25_InClass06 - strings.xml
+Full Name: Kristin Pflug-->
+
+<resources>
+    <string name="app_name">Group25_InClass06</string>
+
+    <string name="app_title">Main Activity</string>
+
+    <string name="complexity_select_label">Select Complexity</string>
+    <string name="generate_button_label">Generate</string>
+    <string name="average_label">Average: </string>
+
+    <string name="complexity_amount_label">- Times</string>
+    <string name="progress_label">0/-</string>
+    <string name="average_calculation">0.0</string>
+</resources>
